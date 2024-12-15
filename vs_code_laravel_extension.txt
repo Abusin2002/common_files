@@ -1,0 +1,12 @@
+
+	PHP DEPENDENCIES FOR VS CODE 
+	1.PHP devsense
+	2.Laravel Blade Formatter
+	3.Laravel Blade Snippets
+	4.Laravel Extra Intellisense
+	5.Larave goto view
+	6.Auto Rename Tag 
+ 	7.Highlight Matching Tag 
+	8.Prettier-Code formatter 
+	9.IntelliSence for CSS class name in HTML 
+	10.Tailwind CSS IntelliSense
